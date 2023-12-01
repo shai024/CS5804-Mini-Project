@@ -1,0 +1,14 @@
+{
+    "Records": [
+        {
+            "s3": {
+                "bucket": {
+                    "name": "rekognition-trusted"
+                },
+                "object": {
+                    "key": "JeffBezos.jpeg"
+                }
+            }
+        }
+    ]
+}

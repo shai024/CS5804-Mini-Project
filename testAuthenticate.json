@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "rekognition-needs-verification"
+        },
+        "object": {
+          "key": "JeffBezos.jpeg"
+        }
+      }
+    }
+  ]
+}
